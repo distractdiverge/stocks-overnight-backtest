@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Project outputs (generated on run)
+infra_results/
+overnight_results/
